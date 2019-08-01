@@ -111,6 +111,7 @@ body {
 .section-2 .container-fluid {
     background-image: url('blue-bright-document-390574 (1).jpg');
     background-repeat: no-repeat;
+    max-width: 1140px;
 }
 
 .section-2 .heading-1 {
