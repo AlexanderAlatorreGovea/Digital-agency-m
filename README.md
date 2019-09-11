@@ -1,1 +1,1 @@
-This layout was designed with bootstrap to be used by any digital agency that may want to gain exposure and display their services.
+Digital Agency mock up created with bootstrap. This is landing page that can be used by any digital agency whose purpose is to promote their services.
